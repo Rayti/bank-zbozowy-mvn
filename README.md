@@ -1,3 +1,2 @@
 # bank-zbozowy-mvn
-
-[![Build status]https://travis-ci.com/github/Rayti/bank-zbozowy-mvn.png](https://travis-ci.com/github/Rayti/bank-zbozowy-mvn)
+[![Build Status](https://travis-ci.com/Rayti/bank-zbozowy-mvn.svg?branch=main)](https://travis-ci.com/Rayti/bank-zbozowy-mvn)
